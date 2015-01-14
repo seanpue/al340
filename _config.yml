@@ -2,7 +2,7 @@
 title: AL340 Spring 2015 Repository
 email: a@seanpue.com
 description: "Github Repository for Michigan State University AL340 Digital Humanities Seminar Class, Spring 2015"
-baseurl: ""
+baseurl: "/al340"
 url: "http://seanpue.com/al340"
 twitter_username: "seanpue"
 github_username:  "seanpue"
