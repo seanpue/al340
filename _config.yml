@@ -1,0 +1,12 @@
+# Site settings
+title: AL340 Digital Humanities Seminar
+email: pue@msu.edu
+description: "AL340 (<a href='http://twitter.com/#al340/'>#al340</a>) Digital Humanities Seminar, Spring 2015 @ Michigan State University (<a href='http://twitter.com/#msudh'>#msudh</a>)"
+baseurl: "/al340"
+url: "http://seanpue.com/al340"
+twitter_username: "seanpue"
+github_username:  "seanpue"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
