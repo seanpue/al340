@@ -41,7 +41,7 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 #### Guest Lecturer: Professor [Matthew Handelman] (German, [DH])
 
-#### Homework Due (Before Class):
+#### Tasks Due (Before Class):
 
 * Finish [Digital_Humanities]: Read Chapters 3, 4, and “A Short Guide to the Digital_Humanities” (again)
 * More reading TBD
