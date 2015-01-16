@@ -32,7 +32,7 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any event.
 
-Be kind to others. Do not insult or put down other attendees.
+Be kind to others. Do not insult or put down other people in the class.
 
 Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
 
@@ -58,13 +58,13 @@ You will have certain tasks to do throughout the course. See the [syllabus] for 
 
 ## Academic Integrity
 This class follows MSU’s regulations on academic integrity. Consult:
-https://www.msu.edu/unit/ombud/academic-integrity/index.html
+http://www.msu.edu/unit/ombud/academic-integrity/index.html
 
 
 ## Accommodations of Students with Disabilities
 
 MSU DH classes follow MSU’s procedures regarding disabilities. Please contact me as soon as possible to arrange accommodations. Persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at http://rcpd.msu.edu.
 
-[syllabus]: /syllabus
+[syllabus]: /al340/syllabus
 
 [d2l]: http://d2l.msu.edu

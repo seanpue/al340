@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-This is the syllabus for AL340/AL890 “Digital Humanities Seminar” Fall 2015 at Michigan State University coordinated by Professor [A. Sean Pue](http://seanpue.com "A. Sean Pue's Webpage"). Please also see the course [Guidelines](/guidelines "Course Guidelines") for information about requirements, grades, and so on.
+This is the syllabus for AL340/AL890 “Digital Humanities Seminar” Fall 2015 at Michigan State University coordinated by Professor [A. Sean Pue](http://seanpue.com "A. Sean Pue's Webpage"). Please also see the course [Guidelines](/al340/guidelines "Course Guidelines") for information about requirements, grades, and so on.
 
 The class meets on Fridays from 9:10 a.m.-12 p.m.
 
@@ -41,7 +41,7 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 #### Guest Lecturer: Professor [Matthew Handelman] (German, [DH])
 
-#### Tasks Due (Before Class):
+#### Homework Due (Before Class):
 
 * Finish [Digital_Humanities]: Read Chapters 3, 4, and “A Short Guide to the Digital_Humanities” (again)
 * More reading TBD
@@ -65,13 +65,9 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 #### Location: [LEADR] (112 Old Horticulture)
 
-#### Tasks Due (Before Class):
-* Read ["Archives in Context as Context"]
-* Read ["Understanding Metadata"]
-
 ### February 27: Project Management, the Creativity Exploratory, and Final Project Overview
 
-#### Guest Lecturer: [Kristen Mapes] (@kmapesy)
+### Guest Lecturer: [Kristen Mapes] (@kmapesy)
 
 #### Location: [CE] (Creative Exploratory, 305 Linton Hall)
 
@@ -88,5 +84,3 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 [Brandon Locke]: http://history.msu.edu/people/brandon-locke/
 [Kristen Mapes]: http://www.kristenmapes.com/
 [CE]: http://ce.cal.msu.edu
-["Archives in Context as Context"]: http://journalofdigitalhumanities.org/1-2/archives-in-context-and-as-context-by-kate-theimer/
-["Understanding Metadata"]: http://www.niso.org/publications/press/UnderstandingMetadata.pdf
