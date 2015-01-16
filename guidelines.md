@@ -40,11 +40,11 @@ Behave professionally. Remember that harassment and sexist, racist, or exclusion
 
 ### Attendance and Participation: 15%
 
-Failure to attend five or more classes will result in a failing grade in this course. More than two absences will affect your attendance/participation grade. Please let
+Failure to attend five or more classes will result in a failing grade in this course. More than two absences will affect your attendance/participation grade. Please let me know ahead of time if you will be absent.
 
 ### Weekly Tasks: 25%
 
-You will have certain tasks to do throughout the course. See the [syllabus] for the "homework" due for each session. You will receive one comulative grade for each week’s assignment. You can check your grades in [d2l].
+You will have certain tasks to do throughout the course. See the [syllabus] for the "homework" due for each session. You will receive one cumulative grade for each week’s assignment. You can check your grades in [d2l].
 
 ### Final Project: 30%
 

@@ -41,7 +41,7 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 #### Guest Lecturer: Professor [Matthew Handelman] (German, [DH])
 
-#### Homework Due (Before Class):
+#### Tasks Due (Before Class):
 
 * Finish [Digital_Humanities]: Read Chapters 3, 4, and “A Short Guide to the Digital_Humanities” (again)
 * More reading TBD
@@ -65,9 +65,13 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 #### Location: [LEADR] (112 Old Horticulture)
 
+#### Tasks Due (Before Class):
+* Read ["Archives in Context as Context"]
+* Read ["Understanding Metadata"]
+
 ### February 27: Project Management, the Creativity Exploratory, and Final Project Overview
 
-### Guest Lecturer: [Kristen Mapes] (@kmapesy)
+#### Guest Lecturer: [Kristen Mapes] (@kmapesy)
 
 #### Location: [CE] (Creative Exploratory, 305 Linton Hall)
 
@@ -84,3 +88,5 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 [Brandon Locke]: http://history.msu.edu/people/brandon-locke/
 [Kristen Mapes]: http://www.kristenmapes.com/
 [CE]: http://ce.cal.msu.edu
+["Archives in Context as Context"]: http://journalofdigitalhumanities.org/1-2/archives-in-context-and-as-context-by-kate-theimer/
+["Understanding Metadata"]: http://www.niso.org/publications/press/UnderstandingMetadata.pdf
