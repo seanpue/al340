@@ -65,6 +65,12 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 #### Location: [LEADR] (112 Old Horticulture)
 
+#### Tasks Due (Before Class):
+
+* Read ["What is Digital History"]
+* Read ["Archives in Context as Context"]
+* Read the first few pages of ["Understanding Metadata"] and save the remainder as a reference
+
 ### February 27: Project Management, the Creativity Exploratory, and Final Project Overview
 
 ### Guest Lecturer: [Kristen Mapes] (@kmapesy)
@@ -82,5 +88,8 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 [LEADR]: http://leadr.msu.edu/
 [Omeka]: http://omeka.org/
 [Brandon Locke]: http://history.msu.edu/people/brandon-locke/
+["What is Digital History"]: http://www.historians.org/publications-and-directories/perspectives-on-history/may-2009/intersections-history-and-new-media/what-is-digital-history
+["Archives in Context as Context"]: http://journalofdigitalhumanities.org/1-2/archives-in-context-and-as-context-by-kate-theimer/
+["Understanding Metadata"]: http://www.niso.org/publications/press/UnderstandingMetadata.pdf
 [Kristen Mapes]: http://www.kristenmapes.com/
 [CE]: http://ce.cal.msu.edu
