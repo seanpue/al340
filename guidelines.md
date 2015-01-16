@@ -9,10 +9,15 @@ permalink: /guidelines/
 This course will address ways to gather, analyze, and manipulate the big data of the digital age to empower our analysis, criticism, and creativity. The DH Seminar is a hands-on class mixing theory and practice.
 
 In this class we will:
+
 * develop data hacking skills across media
+
 * refine critical thinking skills to better understand experience and identity in the digital age
+
 * experience multiple subfields of digital humanities
+
 * collaborate on digital projects
+
 * build expertise applicable to the workplace and/or academic research
 
 ## Syllabus and Course Locations
