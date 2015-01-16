@@ -69,7 +69,7 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 ### Guest Lecturer: [Kristen Mapes] (@kmapesy)
 
-#### Location: [CE] (Creative Exploratory, 305 Linton Hall)
+#### Location: [CE] (Creativity Exploratory, 305 Linton Hall)
 
 [Digital_Humanities]: https://github.com/seanpue/al340/blob/master/readings/9780262018470_Open_Access_Edition.pdf?raw=true
 [D2L]: http://d2l.msu.edu
