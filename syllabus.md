@@ -37,13 +37,14 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 ### January 30: Detractors of DH and Introduction to Servers, the Internet, and Databases (continued)
 
+* Read
+* 
 #### Location: Wells B110H
 
 #### Guest Lecturer: Professor [Matthew Handelman] (German, [DH])
 
 #### Tasks Due (Before Class):
 
-* Finish [Digital_Humanities]: Read Chapters 3, 4, and “A Short Guide to the Digital_Humanities” (again)
 * More reading TBD
 * More tasks TBD
 
@@ -74,6 +75,8 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 ### February 27: Project Management, the Creativity Exploratory, and Final Project Overview
 
 ### Guest Lecturer: [Kristen Mapes] (@kmapesy)
+
+* Finish [Digital_Humanities]: Read Chapters 3, 4, and “A Short Guide to the Digital_Humanities” (again)
 
 #### Location: [CE] (Creativity Exploratory, 305 Linton Hall)
 
