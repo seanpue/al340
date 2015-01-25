@@ -48,7 +48,7 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 * Read [Chun and Rhody, "Working the Digital Humanities"](https://github.com/seanpue/al340/raw/master/readings/differences-2014-intro.pdf)
 * Read short excerpt from [Adorno and Horkheimer, The Culture Industry](https://github.com/seanpue/al340/raw/master/readings/Adorno-Horkheimer-Culture-Industry.pdf)
 * Submit two discussion questions on [D2L] about the reading (same instructions as above for 1/23).
-* Complete the [Hello World! Week 3 Task](/al340/assignment-for-week-3/)
+* Complete the [Hello World! Week 3 Task](/al340/task-for-week-3/)
 * Complete the short quiz on the Hello World assignment on [D2L].
 
 ### February 6: Data Visualization and Timeline Creation
