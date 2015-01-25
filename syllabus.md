@@ -29,7 +29,7 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 #### Location: B110H Wells Hall
 
-#### Homework Due (Before Class):
+#### Tasks Due (Before Class):
 
 * Before doing the reading, on [D2L] write 250-500 words (1-2 double-spaced pages; more is fine if you are on a roll) about what "digital," "humanities," and "digital humanities" mean to you.
 * Read [Digital_Humanities]: Chapters 1, 2, and “A Short Guide to the Digital_Humanities.”
@@ -37,19 +37,17 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 ### January 30: Detractors of DH and Introduction to Servers, the Internet, and Databases (continued)
 
-* Read [Kirsh, "The Limits of Digital Humanities"] (https://github.com/seanpue/al340/raw/master/readings/The%20limits%20of%20the%20digital%20humanities%2C%20by%20Adam%20Kirsch%20%7C%20The%20New%20Republic.pdf)
-* Read ["Digital Humanities Have Great Promise", ](https://github.com/seanpue/al340/raw/master/readings/Digital%20Humanities%20Have%20Immense%20Promise-%20Response%20to%20Adam%20Kirsh.pdf)
-* Read [Chun and Rhody, "Working the Digital Humanities"](https://github.com/seanpue/al340/raw/master/readings/differences-2014-intro.pdf)
-* Submit two discussion questions on [D2L] about the reading (same details as above).
+#### Location: B110H Wells Hall
 
-#### Location: Wells B110H
-
-#### Guest Lecturer: Professor [Matthew Handelman] (German, [DH])
+#### Guest Lecturer: Professor [Matthew Handelman](http://linglang.msu.edu/languages/german/german-faculty/matthew-handelman) (German, [DH])
 
 #### Tasks Due (Before Class):
 
-* More reading TBD
-* More tasks TBD
+* Read [Kirsh, "The Limits of Digital Humanities"](https://github.com/seanpue/al340/raw/master/readings/The%20limits%20of%20the%20digital%20humanities%2C%20by%20Adam%20Kirsch%20%7C%20The%20New%20Republic.pdf)
+* Read ["Digital Humanities Have Great Promise", ](https://github.com/seanpue/al340/raw/master/readings/Digital%20Humanities%20Have%20Immense%20Promise-%20Response%20to%20Adam%20Kirsh.pdf)
+* Read [Chun and Rhody, "Working the Digital Humanities"](https://github.com/seanpue/al340/raw/master/readings/differences-2014-intro.pdf)
+* Submit two discussion questions on [D2L] about the reading (same instructions as above for 1/23).
+* Complete the [Hello World! Week 3 Task](/al340/assignment-for-week-3/)
 
 ### February 6: Data Visualization and Timeline Creation
 
