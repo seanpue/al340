@@ -13,7 +13,7 @@ author: A. Sean Pue
 
 In our second class, in addition to a lively discussion about digital humanities (notes are [here](https://etherpad.mozilla.org/al340-week2), we also logged into our class server and created accounts. Before
 the next class (1/30), you are to login to the server again and, working through the following
-instructions, create a "Hello world!" webpage in your own public directory.
+instructions, create a "Hello world!" webpage in your own public directory. There are additional readings for the first part of the class on the [syllabus](/al340/syllabus)
 
 ### Step 1. Login to the class server
 
