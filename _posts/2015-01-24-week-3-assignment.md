@@ -11,11 +11,13 @@ author: A. Sean Pue
 
 ---
 
-In our second class, in addition to a lively discussion about digital humanities (notes are [here](https://etherpad.mozilla.org/al340-week2), we also logged into our class server and created accounts. Before
+In our second class, in addition to a lively discussion about digital humanities (notes are [here](https://etherpad.mozilla.org/al340-week2)), we also logged into our class server and created accounts. Before
 the next class (1/30), you are to login to the server again and, working through the following
-instructions, create a "Hello world!" webpage in your own public directory. There are additional readings for the first part of the class on the [syllabus](/al340/syllabus)
+instructions, create a "Hello world!" webpage in your own public directory. (There are additional readings for the first part of the class on the [syllabus](/al340/syllabus).)
 
 ### Step 1. Login to the class server
+
+The instructions for those of you using OS X and those using Windows differ slightly.
 
 #### On OS X
 For those of you using Apple's OS X, click on the magnifier button in the upper right of the screen and then find and run the
@@ -25,7 +27,7 @@ program "Terminal." Once at the terminal prompt, type:
 ssh youridhere@al340.digitalhumanities.msu.edu
 ```
 
-This runs the Secure Shell(SSH) program, a safe and secure way to connect to another server. The server name above is `al340.digitalhumanities.msu.edu` and the user id is `youridhere`. The `@` symbol (at) works like that of your e-mail address.
+This runs the Secure Shell(SSH) program, a safe and secure way to connect to another server. The server name above is `al340.digitalhumanities.msu.edu`, and the user id is `youridhere`. The `@` symbol (at) works like that of your e-mail address.
 
 For *youridhere*, enter your user id, which we have set to the same as your MSU mail id. When prompted, enter the password
 you created in class or were assigned. Note that the password will not display when you are typing:
