@@ -176,7 +176,7 @@ chmod 755 ~/public_html
 
 `chmod` stands for 'change mode.' Why 755? What that means is that the user (you) should be able to read, write, and execute the file(7--). The group that owns the file can read and execute the files(-5-), and others can also read and execute the file(--5). You can read more about that command on wikipedia [here](http://en.wikipedia.org/wiki/Chmod). The web server, in our case Apache, is also treated as a user, so it needs to be able to open the files.
 
-Now go to your web browser and type the web address: `http://al340.msu.edu/~youridhere/helloworld.html`
+Now go to your web browser and type the web address: `http://al340.digitalhumanities.msu.edu/~youridhere/helloworld.html`
 
 You should see the following text:
 
