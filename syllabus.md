@@ -46,6 +46,7 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 * Read [Kirsh, "The Limits of Digital Humanities"](https://github.com/seanpue/al340/raw/master/readings/The%20limits%20of%20the%20digital%20humanities%2C%20by%20Adam%20Kirsch%20%7C%20The%20New%20Republic.pdf)
 * Read ["Digital Humanities Have Great Promise", ](https://github.com/seanpue/al340/raw/master/readings/Digital%20Humanities%20Have%20Immense%20Promise-%20Response%20to%20Adam%20Kirsh.pdf)
 * Read [Chun and Rhody, "Working the Digital Humanities"](https://github.com/seanpue/al340/raw/master/readings/differences-2014-intro.pdf)
+* Read short excerpt from [Adorno and Horkheimer, The Culture Industry](https://github.com/seanpue/al340/raw/master/readings/Adorno-Horkheimer-Culture-Industry.pdf)
 * Submit two discussion questions on [D2L] about the reading (same instructions as above for 1/23).
 * Complete the [Hello World! Week 3 Task](/al340/assignment-for-week-3/)
 * Complete the short quiz on the Hello World assignment on [D2L].
