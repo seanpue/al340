@@ -53,6 +53,12 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 ### February 6: Data Visualization and Timeline Creation
 
+#### Tasks Due (Before Class):
+* Read [Friendly, "A Brief History of Data Visualization"](https://github.com/seanpue/al340/blob/master/readings/friendly-a%20brief%20history%20of%20data%20visualization.pdf?raw=true)
+* Read [Fekete, "The Value of Information Visualization"](https://github.com/seanpue/al340/blob/master/readings/fekete-the%20value%20of%20information%20visualization.pdf?raw=true)
+* Read [Heer, "A Tour through the Visualization Zoo"](https://github.com/seanpue/al340/blob/master/readings/heer-a%20tour%20through%20the%20visualization%20zoo.pdf?raw=true)
+* Submit two discussion questions on [D2L] about the reading (same instructions as above for 1/23).
+
 #### Location: Wells B110H
 
 #### Guest Lecturer: [Bobby L. Smiley] (@bobbylsmiley) ([library], [DH])
