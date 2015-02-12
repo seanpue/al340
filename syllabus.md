@@ -74,8 +74,7 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 Curation"](http://guide.dhcuration.org/intro/)
 
 * Read [Carole Palmer, et al. "Foundations of Data Curation: The Pedagogy and
-Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.net/issue/3/archives-remixed/foundations-of-data-
-curation-the-pedagogy-and-practice-of-purposeful-work-with-research-data/)
+Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.net/issue/3/archives-remixed/foundations-of-data-curation-the-pedagogy-and-practice-of-purposeful-work-with-research-data/)
 
 #### Guest Lecturers: [Aaron Collie] ([library], [DH]) (@aaroncollie) [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
 
