@@ -65,7 +65,17 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 ### February 13: Data Management and Curation
 
-#### Location: TBD (in [library]?)
+#### Location: Wells B110H
+
+#### Tasks Due (Before Class):
+
+
+* Read [Julia Flanders and Trevor Munoz, "An Introduction to Humanities Data
+Curation"](http://guide.dhcuration.org/intro/)
+
+* Read [Carole Palmer, et al. "Foundations of Data Curation: The Pedagogy and
+Practice of 'Purposeful Work' with Research Data".] (http://www.archivejournal.net/issue/3/archives-remixed/foundations-of-data-
+curation-the-pedagogy-and-practice-of-purposeful-work-with-research-data/)
 
 #### Guest Lecturers: [Aaron Collie] ([library], [DH]) (@aaroncollie) [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
 
