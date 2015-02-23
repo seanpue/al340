@@ -53,15 +53,19 @@ This syllabus *will change* throughout the semester, so please check back. It wa
 
 ### February 6: Data Visualization and Timeline Creation
 
+#### Location: Wells B110H
+
 #### Tasks Due (Before Class):
 * Read [Friendly, "A Brief History of Data Visualization"](https://github.com/seanpue/al340/blob/master/readings/friendly-a%20brief%20history%20of%20data%20visualization.pdf?raw=true)
 * Read [Fekete, "The Value of Information Visualization"](https://github.com/seanpue/al340/blob/master/readings/fekete-the%20value%20of%20information%20visualization.pdf?raw=true)
 * Read [Heer, "A Tour through the Visualization Zoo"](https://github.com/seanpue/al340/blob/master/readings/heer-a%20tour%20through%20the%20visualization%20zoo.pdf?raw=true)
 * Submit two discussion questions on [D2L] about the reading (same instructions as above for 1/23).
 
-#### Location: Wells B110H
+
 
 #### Guest Lecturer: [Bobby L. Smiley] (@bobbylsmiley) ([library], [DH])
+
+##### Slides are here: [Information Visualization Slides]
 
 ### February 13: Data Management and Curation
 
@@ -76,7 +80,12 @@ Curation"](http://guide.dhcuration.org/intro/)
 * Read [Carole Palmer, et al. "Foundations of Data Curation: The Pedagogy and
 Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.net/issue/3/archives-remixed/foundations-of-data-curation-the-pedagogy-and-practice-of-purposeful-work-with-research-data/)
 
+
+
 #### Guest Lecturers: [Aaron Collie] ([library], [DH]) (@aaroncollie) [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
+
+##### Humanities Data Curation Slides are here: http://bit.ly/1KSxery
+##### Research Data Curation Slides are here: http://slidesha.re/1Gm9OIv
 
 ### February 20: Introduction to Digital History and Digital Collections with [Omeka]
 
@@ -90,7 +99,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 * Read ["Archives in Context as Context"]
 * Read the first few pages of ["Understanding Metadata"] and save the remainder as a reference
 
-#### Slides are here: http://slides.com/leadr/al340
+##### Slides are here: http://slides.com/leadr/al340
 
 ### February 27: Project Management, the Creativity Exploratory, and Final Project Overview
 
@@ -118,3 +127,4 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 ["Understanding Metadata"]: http://www.niso.org/publications/press/UnderstandingMetadata.pdf
 [Kristen Mapes]: http://www.kristenmapes.com/
 [CE]: http://ce.cal.msu.edu
+[Information Visualization Slides]: https://github.com/seanpue/al340/blob/master/slides/AL340_InfoVisLecture.pdf?raw=true
