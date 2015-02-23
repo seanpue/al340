@@ -78,7 +78,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 
 #### Guest Lecturers: [Aaron Collie] ([library], [DH]) (@aaroncollie) [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
 
-### February 20: Introduction Digital History and Digital Collections with [Omeka]
+### February 20: Introduction to Digital History and Digital Collections with [Omeka]
 
 #### Guest Lecturer: [Brandon Locke] (@brandontlocke)
 
@@ -90,11 +90,15 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 * Read ["Archives in Context as Context"]
 * Read the first few pages of ["Understanding Metadata"] and save the remainder as a reference
 
+#### Slides are here: http://slides.com/leadr/al340
+
 ### February 27: Project Management, the Creativity Exploratory, and Final Project Overview
 
 ### Guest Lecturer: [Kristen Mapes] (@kmapesy)
 
 * Finish [Digital_Humanities]: Read Chapters 3, 4, and “A Short Guide to the Digital_Humanities” (again)
+* Post two discussion questions to [D2L]
+* In [D2L], post the URL to the Omeka repository you created last week. Refine it as well and be creative. Include a short description.
 
 #### Location: [CE] (Creativity Exploratory, 305 Linton Hall)
 
