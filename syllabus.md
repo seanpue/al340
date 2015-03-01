@@ -103,7 +103,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 
 ### February 27: Project Management, the Creativity Exploratory, and Final Project Overview
 
-### Guest Lecturer: [Kristen Mapes] (@kmapesy)
+#### Guest Lecturer: [Kristen Mapes] (@kmapesy)
 
 * Finish [Digital_Humanities]: Read Chapters 3, 4, and “A Short Guide to the Digital_Humanities” (again)
 * Post two discussion questions to [D2L]
@@ -111,6 +111,45 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 
 #### Location: [CE] (Creativity Exploratory, 305 Linton Hall)
 
+
+### March 6: Network Analysis
+
+#### Guest Lecturer: [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
+
+
+* Before class, read: Albert-Laszlo Barabasi, Chapter 1:Introduction, Network Science. http://barabasilab.neu.edu/networksciencebook/downlPDF.html
+* Read: Claire Lemercier. Formal network methods in history: why and how?. This version might be slightly revised before publication in Georg Fertig (ed.), Social Networks,.. 2011. https://hal.archives-ouvertes.fr/halshs-00521527/document
+* Install on your laptop Cytoscape: http://www.cytoscape.org/download-platforms.html
+* Post two discussion questions to [D2L]
+* In preparation for the midterm, post to [D2L] up to five identifications and 3 short answer questions based on your assigned class. (See [D2L] for assignment.)
+
+#### Location: REAL Classroom, 3 West, Main Library
+
+### March 13: Textual Analysis
+
+### March 16: Midterm Due
+
+### March 20: Sound and Music Analysis
+
+### March 27: Copyright, Remix, and Remediation
+
+#### Guest Lecturer: Danielle DeVoss
+* Reading: [Bound by Law]
+* Reading: [Digital Humanities Manifesto 2.0]
+
+### April 3: Image and Video Analysis
+#### Guest Lecturer: [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
+
+### April 10: Fieldtrip to Lansing Makers Network (@LansingMakers) and Arduinos!
+
+#### Guest Lecturer: Brian Adams (CAL)
+
+### April 17: DH and Holocaust Studies: The Ethics of Archiving
+
+#### Guest Lecturer: Krista Hegburg (@khegburg) , U.S. Holocaust Memorial Museum)
+[Digital Humanities Manifesto 2.0]: www.humanitiesblast.com/manifesto/Manifesto_V2.pdf
+[Bound by Law]: http://web.law.duke.edu/cspd/comics/zoomcomic.html
+[Center for Advanced Holocaust Studies]: http://www.ushmm.org/research/the-center-for-advanced-holocaust-studies
 [Digital_Humanities]: https://github.com/seanpue/al340/blob/master/readings/9780262018470_Open_Access_Edition.pdf?raw=true
 [D2L]: http://d2l.msu.edu
 [DH]: http://dh.cal.msu.edu
@@ -128,3 +167,4 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 [Kristen Mapes]: http://www.kristenmapes.com/
 [CE]: http://ce.cal.msu.edu
 [Information Visualization Slides]: https://github.com/seanpue/al340/blob/master/slides/AL340_InfoVisLecture.pdf?raw=true
+[Lansing Makers Network]: https://www.lansingmakersnetwork.org
