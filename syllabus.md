@@ -111,7 +111,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 
 #### Location: [CE] (Creativity Exploratory, 305 Linton Hall)
 
-
+##### Slides are here: [Project Management Slides] (some documents are private, so use your MSU id to access) 
 ### March 6: Network Analysis
 
 #### Guest Lecturer: [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
@@ -157,6 +157,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 [library]: http://www.lib.msu.edu
 [Bobby L. Smiley]: http://staff.lib.msu.edu/bsmiley/
 [Aaron Collie]: http://staff.lib.msu.edu/collie/
+[Project Management Slides]: https://docs.google.com/a/msu.edu/presentation/d/19wQitRzsjHQizB38vGZAKTy2pPOuZlazKWRXq7hEUKo/edit?usp=sharing_eid
 [Thomas Padilla]: http://staff.lib.msu.edu/tpadilla/
 [LEADR]: http://leadr.msu.edu/
 [Omeka]: http://omeka.org/
