@@ -111,14 +111,15 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 
 #### Location: [CE] (Creativity Exploratory, 305 Linton Hall)
 
-##### Slides are here: [Project Management Slides] (some documents are private, so use your MSU id to access) 
+##### Slides are here: [Project Management Slides] (some documents are private, so use your MSU id to access)
+
 ### March 6: Network Analysis
 
 #### Guest Lecturer: [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
 
 
 * Before class, read: Albert-Laszlo Barabasi, Chapter 1:Introduction, Network Science. http://barabasilab.neu.edu/networksciencebook/downlPDF.html
-* Read: Claire Lemercier. Formal network methods in history: why and how?. This version might be slightly revised before publication in Georg Fertig (ed.), Social Networks,.. 2011. https://hal.archives-ouvertes.fr/halshs-00521527/document
+* Read: Claire Lemercier. Formal network methods in history: why and how?. This version might be slightly revised before publication in Georg Fertig (ed.), Social Networks,.. 2011. http://hal.archives-ouvertes.fr/halshs-00521527/document
 * Install on your laptop Cytoscape: http://www.cytoscape.org/download-platforms.html
 * Post two discussion questions to [D2L]
 * In preparation for the midterm, post to [D2L] up to five identifications and 3 short answer questions based on your assigned class. (See [D2L] for assignment.)
@@ -129,7 +130,26 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 
 ### March 16: Midterm Due
 
-### March 20: Sound and Music Analysis
+### March 20: DH and Acessibility; Sound and Music Analysis
+
+#### Guest Lecturer: [Ranti Junus] (@ranti) ([library])
+
+* Before class read/view:
+  * George H. Williams, “Disability, Universal Design, and the Digital Humanities,” Debates in Digital Humanities. University of Minnesota Press. http://dhdebates.gc.cuny.edu/debates/text/44
+  * Digital Collections, Data Visualization, and Accessibility: What to Do?
+http://blogpublic.lib.msu.edu/index.php/dscsandbox/digital-collections-and-accessibility-what
+* How a blind student tried to access MSU Libraries e-resources page using a screen reader (5 minutes video)
+https://dl.dropboxusercontent.com/u/9074989/files/eresourcepage.mp4
+    * This is a test Ranti Junus did for our library e-resources page with my blind student. The purpose of this video is to show the mental model used by those with visual impairment when constructing how the page is organized, compare to the sighted users.
+  * Tools Ranti Junus uses when performing accessibility assessment:
+http://blog.rantijunus.net/2014/02/02/tools-i-use-when-performing-accessibility-assessment/
+* The readings below are not required, but would be useful if any of the seminar participants would like to explore more about accessibility:
+  * How People with Disabilities Use the Web: Overview
+http://www.w3.org/WAI/intro/people-use-web/Overview
+  * Considering the User Perspective: A Summary of Design Issues
+http://webaim.org/articles/userperspective/
+  * Designing for Screen Reader Compatibility
+http://webaim.org/techniques/screenreader/
 
 ### March 27: Copyright, Remix, and Remediation
 
@@ -157,6 +177,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 [library]: http://www.lib.msu.edu
 [Bobby L. Smiley]: http://staff.lib.msu.edu/bsmiley/
 [Aaron Collie]: http://staff.lib.msu.edu/collie/
+[Ranti Junus]: http://staff.lib.msu.edu/junus/
 [Project Management Slides]: https://docs.google.com/a/msu.edu/presentation/d/19wQitRzsjHQizB38vGZAKTy2pPOuZlazKWRXq7hEUKo/edit?usp=sharing_eid
 [Thomas Padilla]: http://staff.lib.msu.edu/tpadilla/
 [LEADR]: http://leadr.msu.edu/
