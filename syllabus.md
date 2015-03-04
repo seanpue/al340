@@ -84,8 +84,8 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 
 #### Guest Lecturers: [Aaron Collie] ([library], [DH]) (@aaroncollie) [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
 
-##### Humanities Data Curation Slides are here: http://bit.ly/1KSxery
-##### Research Data Curation Slides are here: http://slidesha.re/1Gm9OIv
+##### Humanities Data Curation Slides are [here](http://bit.ly/1KSxery)
+##### Research Data Curation Slides are [here](http://slidesha.re/1Gm9OIv)
 
 ### February 20: Introduction to Digital History and Digital Collections with [Omeka]
 
@@ -99,7 +99,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 * Read ["Archives in Context as Context"]
 * Read the first few pages of ["Understanding Metadata"] and save the remainder as a reference
 
-##### Slides are here: http://slides.com/leadr/al340
+##### Slides are [here](http://slides.com/leadr/al340)
 
 ### February 27: Project Management, the Creativity Exploratory, and Final Project Overview
 
@@ -118,9 +118,9 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 #### Guest Lecturer: [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
 
 
-* Before class, read: Albert-Laszlo Barabasi, Chapter 1:Introduction, Network Science. http://barabasilab.neu.edu/networksciencebook/downlPDF.html
-* Read: Claire Lemercier. Formal network methods in history: why and how?. This version might be slightly revised before publication in Georg Fertig (ed.), Social Networks,.. 2011. http://hal.archives-ouvertes.fr/halshs-00521527/document
-* Install on your laptop Cytoscape: http://www.cytoscape.org/download-platforms.html
+* Before class, read: Albert-Laszlo Barabasi, [Chapter 1:Introduction, Network Science](http://barabasilab.neu.edu/networksciencebook/downlPDF.html)
+* Read: Claire Lemercier. [Formal network methods in history: why and how?](http://hal.archives-ouvertes.fr/halshs-00521527/document) . This version might be slightly revised before publication in Georg Fertig (ed.), Social Networks, 2011.
+* Install on your laptop [Cytoscape](http://www.cytoscape.org/download-platforms.html)
 * Post two discussion questions to [D2L]
 * In preparation for the midterm, post to [D2L] up to five identifications and 3 short answer questions based on your assigned class. (See [D2L] for assignment.)
 
@@ -135,21 +135,16 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 #### Guest Lecturer: [Ranti Junus] (@ranti) ([library])
 
 * Before class read/view:
-  * George H. Williams, “Disability, Universal Design, and the Digital Humanities,” Debates in Digital Humanities. University of Minnesota Press. http://dhdebates.gc.cuny.edu/debates/text/44
-  * Digital Collections, Data Visualization, and Accessibility: What to Do?
-http://blogpublic.lib.msu.edu/index.php/dscsandbox/digital-collections-and-accessibility-what
-* How a blind student tried to access MSU Libraries e-resources page using a screen reader (5 minutes video)
-https://dl.dropboxusercontent.com/u/9074989/files/eresourcepage.mp4
+  * George H. Williams, [“Disability, Universal Design, and the Digital Humanities,”](http://dhdebates.gc.cuny.edu/debates/text/44)  Debates in Digital Humanities. University of Minnesota Press.
+  * [Digital Collections, Data Visualization, and Accessibility: What to Do?](http://blogpublic.lib.msu.edu/index.php/dscsandbox/digital-collections-and-accessibility-what)
+  * [How a blind student tried to access MSU Libraries e-resources page using a screen reader](https://dl.dropboxusercontent.com/u/9074989/files/eresourcepage.mp4) (5 minutes video)
     * This is a test Ranti Junus did for our library e-resources page with my blind student. The purpose of this video is to show the mental model used by those with visual impairment when constructing how the page is organized, compare to the sighted users.
-  * Tools Ranti Junus uses when performing accessibility assessment:
-http://blog.rantijunus.net/2014/02/02/tools-i-use-when-performing-accessibility-assessment/
+  * Ranti Junus, ["Tools I use when performing accessibility assessment"](
+http://blog.rantijunus.net/2014/02/02/tools-i-use-when-performing-accessibility-assessment/)
 * The readings below are not required, but would be useful if any of the seminar participants would like to explore more about accessibility:
-  * How People with Disabilities Use the Web: Overview
-http://www.w3.org/WAI/intro/people-use-web/Overview
-  * Considering the User Perspective: A Summary of Design Issues
-http://webaim.org/articles/userperspective/
-  * Designing for Screen Reader Compatibility
-http://webaim.org/techniques/screenreader/
+  * [How People with Disabilities Use the Web: Overview](http://www.w3.org/WAI/intro/people-use-web/Overview)
+  * [Considering the User Perspective: A Summary of Design Issues](http://webaim.org/articles/userperspective/)
+  * [Designing for Screen Reader Compatibility](http://webaim.org/techniques/screenreader/)
 
 ### March 27: Copyright, Remix, and Remediation
 
