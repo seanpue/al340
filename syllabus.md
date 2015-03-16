@@ -159,6 +159,7 @@ http://blog.rantijunus.net/2014/02/02/tools-i-use-when-performing-accessibility-
 * Reading: [Digital Humanities Manifesto 2.0]
 
 ### April 3: Image and Video Analysis
+
 #### Guest Lecturer: [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
 
 ### April 10: Fieldtrip to Lansing Makers Network (@LansingMakers) and Arduinos!
