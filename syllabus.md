@@ -127,7 +127,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 #### Location: REAL Classroom, 3 West, Main Library
 
 
-### March 20: DH and Acessibility; Text Analysis
+### March 20: DH and Accessibility; Text Analysis
 
 #### Guest Lecturer: [Ranti Junus] (@ranti) ([library])
 
