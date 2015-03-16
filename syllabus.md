@@ -127,6 +127,13 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 #### Location: REAL Classroom, 3 West, Main Library
 
 ### March 13: Textual Analysis
+* Before class install Python on your computer, either Anaconda or Enthought Canopy. [Anaconda](https://store.continuum.io/cshop/anaconda/) is probably the easiest distribution to install. This may take some time. Python is also available on the lab computers. Also install [NLTK](http://www.nltk.org/install.html).
+* Before class read:
+  * [Algorithimic Criticism](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-7)
+  * [Quantitative Analysis and Literary Studies](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-9&toc.depth=1&toc.id=ss1-6-9&brand=9781405148641_brand)
+* Post two discussion questions on D2L.
+* Write a paragraph about what you like to do for the final project. Respond to at least one of your other classmates posts and feel to phrase your post as a dialog.
+
 
 ### March 16: Midterm Due
 
