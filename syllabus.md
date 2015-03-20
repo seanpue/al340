@@ -150,7 +150,7 @@ http://blog.rantijunus.net/2014/02/02/tools-i-use-when-performing-accessibility-
 * Write a paragraph on D2L about what you like to do for the final project. Respond to at least one of your other classmates posts and feel to phrase your post as a dialog.
 
 
-### March 21: Midterm Due
+### March 23: Midterm Due
 
 ### March 27: Copyright, Remix, and Remediation
 
