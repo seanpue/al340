@@ -85,6 +85,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 #### Guest Lecturers: [Aaron Collie] ([library], [DH]) (@aaroncollie) [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
 
 ##### Humanities Data Curation Slides are [here](http://bit.ly/1KSxery)
+
 ##### Research Data Curation Slides are [here](http://slidesha.re/1Gm9OIv)
 
 ### February 20: Introduction to Digital History and Digital Collections with [Omeka]
@@ -126,7 +127,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 
 #### Location: REAL Classroom, 3 West, Main Library
 
-
+##### Slides are here: [Network Analysis Slides](na_2015-padilla.pdfhttps://github.com/seanpue/al340/blob/master/slides/na_2015-padilla.pdf)
 ### March 20: DH and Accessibility; Text Analysis
 
 #### Guest Lecturer: [Ranti Junus] (@ranti) ([library])
