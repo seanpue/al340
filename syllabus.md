@@ -127,7 +127,7 @@ Practice of 'Purposeful Work' with Research Data".](http://www.archivejournal.ne
 
 #### Location: REAL Classroom, 3 West, Main Library
 
-##### Slides are here: [Network Analysis Slides](na_2015-padilla.pdfhttps://github.com/seanpue/al340/blob/master/slides/na_2015-padilla.pdf)
+##### Slides are here: [Network Analysis Slides](https://github.com/seanpue/al340/blob/master/slides/na_2015-padilla.pdf)
 
 ### March 20: DH and Accessibility; Text Analysis
 
