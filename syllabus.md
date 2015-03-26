@@ -171,7 +171,7 @@ http://blog.rantijunus.net/2014/02/02/tools-i-use-when-performing-accessibility-
 ### April 17: DH and Holocaust Studies: The Ethics of Archiving
 
 #### Guest Lecturer: Krista Hegburg (@khegburg) , U.S. Holocaust Memorial Museum)
-[Digital Humanities Manifesto 2.0]: www.humanitiesblast.com/manifesto/Manifesto_V2.pdf
+[Digital Humanities Manifesto 2.0]: http://www.humanitiesblast.com/manifesto/Manifesto_V2.pdf
 [Bound by Law]: http://web.law.duke.edu/cspd/comics/zoomcomic.html
 [Center for Advanced Holocaust Studies]: http://www.ushmm.org/research/the-center-for-advanced-holocaust-studies
 [Digital_Humanities]: https://github.com/seanpue/al340/blob/master/readings/9780262018470_Open_Access_Edition.pdf?raw=true
