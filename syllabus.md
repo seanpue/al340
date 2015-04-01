@@ -164,6 +164,12 @@ http://blog.rantijunus.net/2014/02/02/tools-i-use-when-performing-accessibility-
 
 #### Guest Lecturer: [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
 
+#### Location: REAL Classroom, 3 West, Main Library
+
+* Reading: Lev Manovich, [Visualizing Vertoz](http://softwarestudies.com/cultural_analytics/Manovich.Visualizing_Vertov.2013.pdf)
+* Reading: Virginia Kuhn, [MOVIE: Large Scale Automated Analysis of MOVing ImagEs](http://www.academia.edu/7681506/MOVIE_Large_Scale_Automated_Analysis_of_MOVing_ImagEs)
+* Post two discussion questions on D2L.
+
 ### April 10: Fieldtrip to Lansing Makers Network (@LansingMakers) and Arduinos!
 
 #### Guest Lecturer: Brian Adams (CAL)
