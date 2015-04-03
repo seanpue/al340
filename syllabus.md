@@ -162,7 +162,7 @@ http://blog.rantijunus.net/2014/02/02/tools-i-use-when-performing-accessibility-
 
 ### April 3: Moving Image/Image Analysis
 
-#### Guest Lecturer: [Thomas Padilla] (@thomasgpadilla) ([library], [DH])
+#### Guest Lecturers: [Thomas Padilla] (@thomasgpadilla) ([library], [DH]); [Ryan Edge] (@rynedg) ([library])
 
 #### Location: REAL Classroom, 3 West, Main Library
 
@@ -200,3 +200,4 @@ http://blog.rantijunus.net/2014/02/02/tools-i-use-when-performing-accessibility-
 [CE]: http://ce.cal.msu.edu
 [Information Visualization Slides]: https://github.com/seanpue/al340/blob/master/slides/AL340_InfoVisLecture.pdf?raw=true
 [Lansing Makers Network]: https://www.lansingmakersnetwork.org
+[Ryan Edge]: http://staff.lib.msu.edu/edger/
