@@ -174,6 +174,13 @@ http://blog.rantijunus.net/2014/02/02/tools-i-use-when-performing-accessibility-
 
 #### Guest Lecturer: Brian Adams (CAL)
 
+#### Location: Lansing Makes Network, 502 E Grand River Ave
+
+* Watch: [Dale Dougherty, We are Makers](https://www.ted.com/talks/dale_dougherty_we_are_makers)
+* Reading [Arduino's Massimo Banzi: How We Helped Make The Maker Movement](http://readwrite.com/2014/05/12/arduino-massimo-banzi-diy-electronics-hardware-hacking-builders)
+* Reading [The Relevance of Remaking](http://maker.uvic.ca/remaking/)
+* Optional Reading [The Maker Movement Manifesto, pg 1-30](http://www.techshop.ws/images/0071821139%20Maker%20Movement%20Manifesto%20Sample%20Chapter.pdf)
+
 ### April 17: DH and Holocaust Studies: The Ethics of Archiving
 
 #### Guest Lecturer: Krista Hegburg (@khegburg) , U.S. Holocaust Memorial Museum)
